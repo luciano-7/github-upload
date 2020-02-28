@@ -1,5 +1,4 @@
 /*Name: Pablo Velazquez
- *PID: 2396139  
  *I certify that this is my own work and not the work of others. 
  *This program displays a shopping list with the item number, description,
  *price, count, and total price of each item. The total price is calculated
